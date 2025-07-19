@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/omid-sakaki-ghazvini/Deploying-Deep-Learning-Models-with-FastAPI-Docker/blob/master/deepLearning_fastapi_docker.jpg" width="450" height="450">
+  <img src="https://github.com/omid-sakaki-ghazvini/Intelligent-Nutritional-Analysis-of-Fruits-Using-YOLOv8-and-Augmented-Reality-Techniques/blob/main/yolov8_AR_prj.png" width="450" height="450">
 </p>
